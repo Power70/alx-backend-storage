@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Not my code -- mine in redis in onenote or notepad
-'''A module for using the Redis NoSQL data storage.
+'''A module for using the Redis NoSQL data storage using python.
 '''
 import uuid
 import redis
